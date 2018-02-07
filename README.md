@@ -1,0 +1,2 @@
+# Java-Poker-Game-Files
+This repository contains the Java poker game that I wrote from scratch. There are a few errors in the algorithms that decide the winner and also in the game structure itself, but those should be easily fixable. I wrote this code completely for fun so it is a tad messy. I did not reference any other card game related code when designing  this as I wanted it to be a challenge.
